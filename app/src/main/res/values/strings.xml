@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RussianRouletteVictor</string>
+    <string name="reload">Reload</string>
+    <string name="bang">Bang !!!</string>
+</resources>
